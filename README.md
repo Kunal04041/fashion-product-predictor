@@ -28,3 +28,5 @@ Once downloaded, unzip the folder and open it.
 Inside the project folder, open a terminal and run:
 ```bash
 pip install -r requirements.txt
+
+### 3. Run the Web Application
