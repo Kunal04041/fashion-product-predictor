@@ -24,19 +24,19 @@ Once downloaded, unzip the folder and open it.
 ---
 
 ### 2. Install Required Libraries:
-
 Open Anaconda Prompt and run the following command
+``` bash
+cd <Path of unzipped assignment folder>
+```
+Once you are redirected to the folder install the dependencies with the command below
+
 ```bash
 pip install -r requirements.txt
 ```
 Make sure you're inside the project folder (where requirements.txt is located) to run the above command
 
 ### 3. Run the Web Application:
-After installing the dependencies run the command below
-``` bash
-cd <Path of unzipped assignment folder>
-```
-execute the cd command and then run
+After all the installation has done execute 
 ```bash
 python app.py
 ```
