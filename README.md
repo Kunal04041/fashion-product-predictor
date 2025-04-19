@@ -30,14 +30,19 @@ Open Anaconda Prompt and run the following command
 pip install -r requirements.txt
 ```
 ### 3. Run the Web Application:
-After installing the dependencies run
+After installing the dependencies run the command below
 ``` bash
 cd <Path of unzipped assignment folder>
 ```
-and then run
+execute the cd command and then run
 ```bash
 python app.py
 ```
+After running the command, you'll see an output in the terminal similar to this:
+ * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+
+Copy this URL (http://127.0.0.1:5000) and paste it into your browser. This will open the web app in your browser.
+
 ### 4. Upload an Image and Get Predictions
 * Upload one of the sample fashion images (e.g., Amazon product screenshots provided in the folder).
 * Click the Predict button.
