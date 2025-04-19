@@ -29,8 +29,15 @@ Inside the project folder, open a terminal and run:
 ```bash
 pip install -r requirements.txt
 ```
-### 3. Open Terminal and Navigate to the Project Folder
-### 3. Run the Web Application
-
+### 3. Run the Web Application:
+Still in the same folder, run
+```bash
+python app.py
+```
+### 4. Upload an Image and Get Predictions
+* Upload one of the sample fashion images (e.g., Amazon product screenshots provided in the folder).
+* Click the Predict button.
+* The model will return predictions for Color, Product Type, Season, and Gender.
+ 
 
 
