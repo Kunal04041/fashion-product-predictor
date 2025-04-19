@@ -29,6 +29,8 @@ Open Anaconda Prompt and run the following command
 ```bash
 pip install -r requirements.txt
 ```
+Make sure you're inside the project folder (where requirements.txt is located) to run the above command
+
 ### 3. Run the Web Application:
 After installing the dependencies run the command below
 ``` bash
