@@ -1,28 +1,30 @@
 # Fashion Multi-Label Attribute Classifier
 
-This project uses deep learning to classify fashion product images into four key attributes:
+This project uses a deep learning model to classify fashion product images into four attributes:
 - **Color** of the product
 - **Product Type** (e.g., T-shirt, Shoes, etc.)
 - **Season** (e.g., Summer, Winter)
 - **Gender** (Men, Women, Unisex)
 
-## Model Description
-The model uses a **multi-output Convolutional Neural Network (CNN)** to predict the above attributes from a single fashion product image. 
-- **TensorFlow 2.3.0** and **Keras** were used to build and train the model.
-- The model is trained on fashion product images and can make predictions based on images of fashion items.
+The model is integrated into a simple web app using Flask, allowing users to upload images and receive predictions through a browser interface.
 
-## Technologies Used
-- **Python 3.5**
-- **TensorFlow 2.3.0**
-- **Keras**
-- **NumPy**
-- **Pandas**
-- **Matplotlib**
-- **OpenCV**
+---
 
 ## How to Run the Project
 
-1. **Clone the Repository**: Copy the project to your local machine.
-   ```bash
-   git clone https://github.com/Kunal04041/fashion-product-predictor.git
+### 1. Download the Complete Project Folder
 
+The project (including the trained model and web app files) is too large for GitHub.  
+Download the complete folder from the link below:
+
+ **[Download Project Folder from Google Drive](https://drive.google.com/drive/folders/1ETmpZWLQIq4AJuJwXRj6VuH5vxRxwqQR?usp=sharing)**
+
+Once downloaded, unzip the folder and open it.
+
+---
+
+### 2. Install Required Libraries
+
+Inside the project folder, open a terminal and run:
+```bash
+pip install -r requirements.txt
