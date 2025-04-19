@@ -1,11 +1,10 @@
-# Fashion Product Classifier
-
+# Fashion Multi-Label Attribute Classifier
 
 This project uses deep learning to classify fashion product images into four key attributes:
-- Color of the product
-- Product type (e.g., T-shirt, Shoes, etc.)
-- Season (e.g., Summer, Winter)
-- Gender (Men, Women, Unisex)
+- **Color** of the product
+- **Product Type** (e.g., T-shirt, Shoes, etc.)
+- **Season** (e.g., Summer, Winter)
+- **Gender** (Men, Women, Unisex)
 
 ## Model Description
 The model uses a **multi-output Convolutional Neural Network (CNN)** to predict the above attributes from a single fashion product image. 
@@ -21,8 +20,8 @@ The model uses a **multi-output Convolutional Neural Network (CNN)** to predict 
 - **Matplotlib**
 - **OpenCV**
 
-## How to Run the Notebook
-1. Clone this repository:
+## How to Run the Project
+
+1. **Clone the Repository**: Copy the project to your local machine.
    ```bash
-   git clone https://github.com/YOUR_USERNAME/fashion-product-predictor.git
-   cd fashion-product-predictor
+   git clone https://github.com/Kunal04041/fashion-product-predictor.git
