@@ -25,3 +25,4 @@ The model uses a **multi-output Convolutional Neural Network (CNN)** to predict 
 1. **Clone the Repository**: Copy the project to your local machine.
    ```bash
    git clone https://github.com/Kunal04041/fashion-product-predictor.git
+
