@@ -30,7 +30,7 @@ Open Anaconda Prompt and run the following command
 pip install -r requirements.txt
 ```
 ### 3. Run the Web Application:
-After installing use
+After installing the dependencies run
 ``` bash
 cd <Path of unzipped assignment folder>
 ```
