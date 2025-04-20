@@ -7,7 +7,7 @@ This project uses a deep learning model to classify fashion product images into 
 - **Gender** (Men, Women, Unisex)
 
 The model is integrated into a simple web app using Flask, allowing users to upload images and receive predictions through a browser interface.
-
+I’ve also uploaded a walkthrough video demonstrating how to test the web application — you can find it in the same Google Drive folder.
 ---
 
 ## How to Run the Project
